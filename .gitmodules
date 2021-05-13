@@ -8,46 +8,38 @@
 	url = https://github.com/nowosad/comat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "motif"]
 	path = motif
 	url = https://github.com/nowosad/motif
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pollen"]
 	path = pollen
 	url = https://github.com/nowosad/pollen
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "raceland"]
 	path = raceland
 	url = https://github.com/nowosad/raceland
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rcartocolor"]
 	path = rcartocolor
 	url = https://github.com/nowosad/rcartocolor
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/nowosad/rgeopat2
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/nowosad/sabre
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "spData"]
 	path = spData
 	url = https://github.com/nowosad/spdata
 	shallow = true
 	registered = true
-	oncran = true
