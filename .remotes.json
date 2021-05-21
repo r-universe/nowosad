@@ -1,0 +1,8 @@
+[
+  {
+    "package": "motif",
+    "url": "https://github.com/nowosad/motif",
+    "via": ["supercells"],
+    "from": "supercells"
+  }
+]

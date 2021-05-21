@@ -8,3 +8,8 @@
 	url = https://github.com/nowosad/supercells
 	shallow = true
 	registered = true
+[submodule "motif"]
+	path = motif
+	url = https://github.com/nowosad/motif
+	shallow = true
+	registered = false
