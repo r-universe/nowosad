@@ -1,5 +1,40 @@
 [
   {
     "package": "supercells"
+  },
+  {
+    "package": "spData",
+    "oncran": true
+  },
+  {
+    "package": "spDataLarge"
+  },
+  {
+    "package": "comat",
+    "oncran": true
+  },
+  {
+    "package": "pollen",
+    "oncran": true
+  },
+  {
+    "package": "raceland",
+    "oncran": true
+  },
+  {
+    "package": "rcartocolor",
+    "oncran": true
+  },
+  {
+    "package": "rgeopat2",
+    "oncran": true
+  },
+  {
+    "package": "sabre",
+    "oncran": true
+  },
+  {
+    "package": "motif",
+    "oncran": true
   }
 ]
