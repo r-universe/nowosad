@@ -2,7 +2,25 @@
   {
     "package": "motif",
     "url": "https://github.com/nowosad/motif",
+    "via": ["regional", "supercells"],
+    "from": "regional"
+  },
+  {
+    "package": "motif",
+    "url": "https://github.com/nowosad/motif",
     "via": ["supercells"],
     "from": "supercells"
+  },
+  {
+    "package": "philentropy",
+    "url": "https://github.com/drostlab/philentropy",
+    "via": ["regional"],
+    "from": "regional"
+  },
+  {
+    "package": "supercells",
+    "url": "https://github.com/nowosad/supercells",
+    "via": ["regional"],
+    "from": "regional"
   }
 ]

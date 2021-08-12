@@ -58,3 +58,8 @@
 	url = https://github.com/nowosad/motif
 	shallow = true
 	registered = true
+[submodule "philentropy"]
+	path = philentropy
+	url = https://github.com/drostlab/philentropy
+	shallow = true
+	registered = false
