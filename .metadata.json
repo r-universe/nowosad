@@ -1,5 +1,8 @@
 [
   {
+    "package": "regional"
+  },
+  {
     "package": "supercells"
   },
   {
