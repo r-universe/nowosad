@@ -13,8 +13,9 @@
   },
   {
     "package": "philentropy",
-    "url": "https://github.com/drostlab/philentropy",
+    "url": "https://github.com/nowosad/philentropy",
     "via": ["regional"],
+    "branch": "cpp_extend",
     "from": "regional"
   },
   {

@@ -60,6 +60,7 @@
 	registered = true
 [submodule "philentropy"]
 	path = philentropy
-	url = https://github.com/drostlab/philentropy
+	url = https://github.com/nowosad/philentropy
 	shallow = true
+	branch = cpp_extend
 	registered = false
