@@ -24,6 +24,12 @@
     "from": "regional"
   },
   {
+    "package": "philentropy",
+    "url": "https://github.com/drostlab/philentropy",
+    "via": ["supercells"],
+    "from": "supercells"
+  },
+  {
     "package": "supercells",
     "url": "https://github.com/nowosad/supercells",
     "via": ["regional"],
