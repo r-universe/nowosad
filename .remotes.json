@@ -13,9 +13,14 @@
   },
   {
     "package": "philentropy",
-    "url": "https://github.com/nowosad/philentropy",
+    "url": "https://github.com/drostlab/philentropy",
     "via": ["regional"],
-    "branch": "cpp_extend",
+    "from": "regional"
+  },
+  {
+    "package": "philentropy",
+    "url": "https://github.com/drostlab/philentropy",
+    "via": ["regional", "supercells"],
     "from": "regional"
   },
   {
