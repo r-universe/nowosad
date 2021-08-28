@@ -63,3 +63,8 @@
 	url = https://github.com/drostlab/philentropy
 	shallow = true
 	registered = false
+[submodule "terra"]
+	path = terra
+	url = https://github.com/rspatial/terra
+	shallow = true
+	registered = false

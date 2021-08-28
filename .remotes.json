@@ -34,5 +34,11 @@
     "url": "https://github.com/nowosad/supercells",
     "via": ["regional"],
     "from": "regional"
+  },
+  {
+    "package": "terra",
+    "url": "https://github.com/rspatial/terra",
+    "via": ["supercells"],
+    "from": "supercells"
   }
 ]
