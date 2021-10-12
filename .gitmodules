@@ -3,16 +3,6 @@
 	url = https://github.com/nowosad/universe
 	shallow = true
 	branch = HEAD
-[submodule "regional"]
-	path = regional
-	url = https://github.com/nowosad/regional
-	shallow = true
-	registered = true
-[submodule "supercells"]
-	path = supercells
-	url = https://github.com/nowosad/supercells
-	shallow = true
-	registered = true
 [submodule "spData"]
 	path = spData
 	url = https://github.com/nowosad/spData
