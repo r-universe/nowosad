@@ -6,12 +6,6 @@
     "from": "regional"
   },
   {
-    "package": "motif",
-    "url": "https://github.com/nowosad/motif",
-    "via": ["supercells"],
-    "from": "supercells"
-  },
-  {
     "package": "philentropy",
     "url": "https://github.com/drostlab/philentropy",
     "via": ["regional"],
@@ -40,11 +34,5 @@
     "url": "https://github.com/rspatial/terra",
     "via": ["regional", "supercells"],
     "from": "regional"
-  },
-  {
-    "package": "terra",
-    "url": "https://github.com/rspatial/terra",
-    "via": ["supercells"],
-    "from": "supercells"
   }
 ]
