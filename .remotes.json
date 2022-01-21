@@ -32,6 +32,12 @@
   {
     "package": "terra",
     "url": "https://github.com/rspatial/terra",
+    "via": ["bespatial"],
+    "from": "bespatial"
+  },
+  {
+    "package": "terra",
+    "url": "https://github.com/rspatial/terra",
     "via": ["regional", "supercells"],
     "from": "regional"
   }
