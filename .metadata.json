@@ -42,5 +42,8 @@
   },
   {
     "package": "geostatbook"
+  },
+  {
+    "package": "bespatial"
   }
 ]

@@ -63,6 +63,11 @@
 	url = https://github.com/nowosad/geostatbook
 	shallow = true
 	registered = true
+[submodule "bespatial"]
+	path = bespatial
+	url = https://github.com/nowosad/bespatial
+	shallow = true
+	registered = true
 [submodule "philentropy"]
 	path = philentropy
 	url = https://github.com/drostlab/philentropy
