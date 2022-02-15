@@ -12,24 +12,6 @@
     "from": "regional"
   },
   {
-    "package": "philentropy",
-    "url": "https://github.com/drostlab/philentropy",
-    "via": ["supercells"],
-    "from": "supercells"
-  },
-  {
-    "package": "philentropy",
-    "url": "https://github.com/drostlab/philentropy",
-    "via": ["supercells", "regional"],
-    "from": "supercells"
-  },
-  {
-    "package": "regional",
-    "url": "https://github.com/nowosad/regional",
-    "via": ["supercells"],
-    "from": "supercells"
-  },
-  {
     "package": "supercells",
     "url": "https://github.com/nowosad/supercells",
     "via": ["regional"],
