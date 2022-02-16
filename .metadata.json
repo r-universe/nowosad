@@ -3,7 +3,8 @@
     "package": "regional"
   },
   {
-    "package": "supercells"
+    "package": "supercells",
+    "oncran": false
   },
   {
     "package": "spData",
