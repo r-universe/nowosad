@@ -68,11 +68,6 @@
 	url = https://github.com/nowosad/bespatial
 	shallow = true
 	registered = true
-[submodule "philentropy"]
-	path = philentropy
-	url = https://github.com/drostlab/philentropy
-	shallow = true
-	registered = false
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
