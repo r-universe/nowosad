@@ -1,6 +1,7 @@
 [
   {
-    "package": "regional"
+    "package": "regional",
+    "oncran": false
   },
   {
     "package": "supercells",
