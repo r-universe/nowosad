@@ -5,7 +5,7 @@
   },
   {
     "package": "supercells",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "spData",
