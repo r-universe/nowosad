@@ -1,75 +1,47 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nowosad/universe
-	shallow = true
 	branch = HEAD
 [submodule "regional"]
 	path = regional
 	url = https://github.com/nowosad/regional
-	shallow = true
-	registered = true
 [submodule "supercells"]
 	path = supercells
 	url = https://github.com/nowosad/supercells
-	shallow = true
-	registered = true
 [submodule "spData"]
 	path = spData
 	url = https://github.com/nowosad/spData
-	shallow = true
-	registered = true
 [submodule "spDataLarge"]
 	path = spDataLarge
 	url = https://github.com/nowosad/spDataLarge
-	shallow = true
-	registered = true
 [submodule "comat"]
 	path = comat
 	url = https://github.com/nowosad/comat
-	shallow = true
-	registered = true
 [submodule "pollen"]
 	path = pollen
 	url = https://github.com/nowosad/pollen
-	shallow = true
-	registered = true
 [submodule "raceland"]
 	path = raceland
 	url = https://github.com/nowosad/raceland
-	shallow = true
-	registered = true
 [submodule "rcartocolor"]
 	path = rcartocolor
 	url = https://github.com/nowosad/rcartocolor
-	shallow = true
-	registered = true
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/nowosad/rgeopat2
-	shallow = true
-	registered = true
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/nowosad/sabre
-	shallow = true
-	registered = true
 [submodule "motif"]
 	path = motif
 	url = https://github.com/nowosad/motif
-	shallow = true
-	registered = true
 [submodule "geostatbook"]
 	path = geostatbook
 	url = https://github.com/nowosad/geostatbook
-	shallow = true
-	registered = true
 [submodule "bespatial"]
 	path = bespatial
 	url = https://github.com/nowosad/bespatial
-	shallow = true
-	registered = true
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
-	shallow = true
 	registered = false
