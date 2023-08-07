@@ -2,21 +2,18 @@
 	path = .registry
 	url = https://github.com/nowosad/universe
 	branch = HEAD
-[submodule "regional"]
-	path = regional
-	url = https://github.com/nowosad/regional
-[submodule "supercells"]
-	path = supercells
-	url = https://github.com/nowosad/supercells
-[submodule "spData"]
-	path = spData
-	url = https://github.com/nowosad/spData
-[submodule "spDataLarge"]
-	path = spDataLarge
-	url = https://github.com/nowosad/spDataLarge
+[submodule "bespatial"]
+	path = bespatial
+	url = https://github.com/nowosad/bespatial
 [submodule "comat"]
 	path = comat
 	url = https://github.com/nowosad/comat
+[submodule "geostatbook"]
+	path = geostatbook
+	url = https://github.com/nowosad/geostatbook
+[submodule "motif"]
+	path = motif
+	url = https://github.com/nowosad/motif
 [submodule "pollen"]
 	path = pollen
 	url = https://github.com/nowosad/pollen
@@ -26,21 +23,24 @@
 [submodule "rcartocolor"]
 	path = rcartocolor
 	url = https://github.com/nowosad/rcartocolor
+[submodule "regional"]
+	path = regional
+	url = https://github.com/nowosad/regional
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/nowosad/rgeopat2
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/nowosad/sabre
-[submodule "motif"]
-	path = motif
-	url = https://github.com/nowosad/motif
-[submodule "geostatbook"]
-	path = geostatbook
-	url = https://github.com/nowosad/geostatbook
-[submodule "bespatial"]
-	path = bespatial
-	url = https://github.com/nowosad/bespatial
+[submodule "spData"]
+	path = spData
+	url = https://github.com/nowosad/spData
+[submodule "spDataLarge"]
+	path = spDataLarge
+	url = https://github.com/nowosad/spDataLarge
+[submodule "supercells"]
+	path = supercells
+	url = https://github.com/nowosad/supercells
 [submodule "terra"]
 	path = terra
 	url = https://github.com/rspatial/terra
