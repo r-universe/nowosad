@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nowosad/universe
+	url = https://github.com/nowosad/nowosad.r-universe.dev
 	branch = HEAD
 [submodule "bespatial"]
 	path = bespatial
