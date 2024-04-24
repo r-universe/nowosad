@@ -41,7 +41,3 @@
 [submodule "supercells"]
 	path = supercells
 	url = https://github.com/nowosad/supercells
-[submodule "terra"]
-	path = terra
-	url = https://github.com/rspatial/terra
-	registered = false
